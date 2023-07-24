@@ -2,7 +2,7 @@
 
 My Website : https://rezakurniawan88.github.io
 
-<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+<img align='center' src='https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif' width='900"'>
 
 <!---
 rezakurniawan88/rezakurniawan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
