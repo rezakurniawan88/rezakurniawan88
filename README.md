@@ -1,8 +1,12 @@
-👋 Hi, I’m Reza Kurniawan
+![readmebox](https://github.com/rezakurniawan88/rezakurniawan88/assets/67334603/47c91978-ba4f-492e-9755-b55024d1242e)
+<br><br>
+👋 Hi, there
 
-My Website : https://rezakurniawan88.github.io
-
-<img align='center' src='https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif' width='900"'>
+About Me!
+- 👨‍🦱 My name is Reza Kurniawan
+- 💻 I'm interested in web development
+- 🖥 I'm also interested in Linux
+- 🌐 My Website : https://rezakurniawan88.github.io
 
 <!---
 rezakurniawan88/rezakurniawan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
