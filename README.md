@@ -6,7 +6,7 @@ About Me!
 - 👨‍🦱 My name is Reza Kurniawan
 - 💻 I'm interested in web development
 - 🖥 I'm also interested in Linux
-- 🌐 My Website : https://rezakurniawan88.github.io
+- 🌐 My Website : https://rezakurniawan88.vercel.app
 
 <!---
 rezakurniawan88/rezakurniawan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
